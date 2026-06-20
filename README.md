@@ -1,2 +1,14 @@
 # worldcup-cnwin-pages
-HTML page archive and documentation
+
+页面文件整理目录
+
+本仓库用于保存页面发布产物，内容以实际文件为准。
+
+## 文件
+
+- 页面文件会直接写入仓库根目录
+- 仓库说明保存在 README.md
+
+## 结尾说明
+
+本 README 用于说明仓库用途，页面内容以独立 HTML 文件为准。
